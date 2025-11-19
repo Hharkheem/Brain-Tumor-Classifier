@@ -91,10 +91,7 @@ The model is trained using the Adam optimizer with a learning rate of 0.0001 and
 ## Results
 
 The training process is detailed in `main.ipynb`, with the loss decreasing over 30 epochs and a final test accuracy of **97.33%**. The notebook also includes a visualization of a random test image with its predicted and actual class labels, along with the confidence score.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or bug fixes.
+<img width="1354" height="684" alt="image" src="https://github.com/user-attachments/assets/79be7021-b384-4ea9-bd7d-37fe87b947f8" />
 
 ## License
 
